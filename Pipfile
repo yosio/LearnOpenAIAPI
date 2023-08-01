@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyter = "*"
 ipykernel = "*"
+langchain = "*"
+openai = "*"
 
 [dev-packages]
 
